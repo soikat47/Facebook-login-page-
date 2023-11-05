@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Roboto:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+
+body{
+    background-color: rgb(232, 237, 242);
+}
+h1{
+    color: rgb(11, 111, 211);
+}
+.contant{
+    position: absolute;
+    top: 24%;
+    left: 18%;
+    font-size: 26px;
+}
+header{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    left: 60%;
+    top: 18%;
+    background-color: #fff;
+
+}
+.box input{
+    width: 75%;
+    margin: 10px;
+    margin-top: 15px;
+    margin-left: 22px;
+    padding: 15px 20px;
+
+}
+.link {
+    width: 290px;
+    text-align: center;
+    background-color: rgb(30, 116, 202);
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.link a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.link2{
+    text-align: center;
+    margin-top: 10px;
+}
+.link2 a{
+    color: rgb(49, 110, 232);
+    text-decoration: none;
+}
+.link3{
+    width: 50%;
+    margin-left: 22%;
+    text-align: center;
+    background-color: rgb(70, 237, 70);
+    margin-top: 40px;
+   padding: 10px;
+   border-radius: 7px;
+}
+.link3 a{
+    text-decoration: none;
+    color: #fff;
+  
+}
